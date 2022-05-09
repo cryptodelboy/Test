@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9B3BB524e77AddE2849bd410208587453f9Cf5d1",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x9b3bb524e77adde2849bd410208587453f9cf5d1",
+  "NETWORK": {
+    "NAME": "Fantom",
+    "SYMBOL": "FTM",
+    "ID": 250
+  },
+  "NFT_NAME": "Test",
+  "SYMBOL": "SKNFT",
+  "MAX_SUPPLY": 992,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/sk-vwi0wtiavh",
+  "SHOW_BACKGROUND": true
+}
